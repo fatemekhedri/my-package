@@ -45,7 +45,7 @@
     "url": "git+https://github.com/fatemekhedri/my-package.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "fatemehkhedri <khedri.fateme@ymail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fatemekhedri/my-package/issues"
